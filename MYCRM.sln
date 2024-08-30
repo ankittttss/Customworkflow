@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My Plugin", "My Plugin\My Plugin.csproj", "{E37EBF6B-8158-465E-AAD4-22C129A264CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCustomWorkflow", "MyCustomWorkflow\MyCustomWorkflow.csproj", "{EF7AE13C-3AC1-41D0-A71C-2B26CA6540A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E37EBF6B-8158-465E-AAD4-22C129A264CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37EBF6B-8158-465E-AAD4-22C129A264CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37EBF6B-8158-465E-AAD4-22C129A264CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37EBF6B-8158-465E-AAD4-22C129A264CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF7AE13C-3AC1-41D0-A71C-2B26CA6540A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7AE13C-3AC1-41D0-A71C-2B26CA6540A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7AE13C-3AC1-41D0-A71C-2B26CA6540A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7AE13C-3AC1-41D0-A71C-2B26CA6540A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC7AA471-59C7-47C7-937E-3BAA2998E1B7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7AE13C-3AC1-41D0-A71C-2B26CA6540A9}|MyCustomWorkflow\\MyCustomWorkflow.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\mycustomworkflow\\gettaxworkflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7AE13C-3AC1-41D0-A71C-2B26CA6540A9}|MyCustomWorkflow\\MyCustomWorkflow.csproj|solutionrelative:mycustomworkflow\\gettaxworkflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7AE13C-3AC1-41D0-A71C-2B26CA6540A9}|MyCustomWorkflow\\MyCustomWorkflow.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\mycustomworkflow\\activity1.xaml||{D4D9FCBC-B26A-4C41-AB9F-11FD2466829A}",
+      "RelativeMoniker": "D:0:0:{EF7AE13C-3AC1-41D0-A71C-2B26CA6540A9}|MyCustomWorkflow\\MyCustomWorkflow.csproj|solutionrelative:mycustomworkflow\\activity1.xaml||{D4D9FCBC-B26A-4C41-AB9F-11FD2466829A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37EBF6B-8158-465E-AAD4-22C129A264CB}|My Plugin\\My Plugin.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\my plugin\\helloplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37EBF6B-8158-465E-AAD4-22C129A264CB}|My Plugin\\My Plugin.csproj|solutionrelative:my plugin\\helloplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37EBF6B-8158-465E-AAD4-22C129A264CB}|My Plugin\\My Plugin.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\my plugin\\retriveplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37EBF6B-8158-465E-AAD4-22C129A264CB}|My Plugin\\My Plugin.csproj|solutionrelative:my plugin\\retriveplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37EBF6B-8158-465E-AAD4-22C129A264CB}|My Plugin\\My Plugin.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\my plugin\\newtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37EBF6B-8158-465E-AAD4-22C129A264CB}|My Plugin\\My Plugin.csproj|solutionrelative:my plugin\\newtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37EBF6B-8158-465E-AAD4-22C129A264CB}|My Plugin\\My Plugin.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\my plugin\\taskcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37EBF6B-8158-465E-AAD4-22C129A264CB}|My Plugin\\My Plugin.csproj|solutionrelative:my plugin\\taskcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37EBF6B-8158-465E-AAD4-22C129A264CB}|My Plugin\\My Plugin.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\my plugin\\preentityimagedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37EBF6B-8158-465E-AAD4-22C129A264CB}|My Plugin\\My Plugin.csproj|solutionrelative:my plugin\\preentityimagedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37EBF6B-8158-465E-AAD4-22C129A264CB}|My Plugin\\My Plugin.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\my plugin\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37EBF6B-8158-465E-AAD4-22C129A264CB}|My Plugin\\My Plugin.csproj|solutionrelative:my plugin\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E37EBF6B-8158-465E-AAD4-22C129A264CB}|My Plugin\\My Plugin.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\my plugin\\duplicatecheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E37EBF6B-8158-465E-AAD4-22C129A264CB}|My Plugin\\My Plugin.csproj|solutionrelative:my plugin\\duplicatecheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "newTask.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\My Plugin\\newTask.cs",
+              "RelativeDocumentMoniker": "My Plugin\\newTask.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\My Plugin\\newTask.cs",
+              "RelativeToolTip": "My Plugin\\newTask.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:25:59.497Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetTaxWorkflow.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\MyCustomWorkflow\\GetTaxWorkflow.cs",
+              "RelativeDocumentMoniker": "MyCustomWorkflow\\GetTaxWorkflow.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\MyCustomWorkflow\\GetTaxWorkflow.cs",
+              "RelativeToolTip": "MyCustomWorkflow\\GetTaxWorkflow.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:57:29.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Activity1.xaml",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\MyCustomWorkflow\\Activity1.xaml",
+              "RelativeDocumentMoniker": "MyCustomWorkflow\\Activity1.xaml",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\MyCustomWorkflow\\Activity1.xaml",
+              "RelativeToolTip": "MyCustomWorkflow\\Activity1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-30T11:56:28.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RetrivePlugin.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\My Plugin\\RetrivePlugin.cs",
+              "RelativeDocumentMoniker": "My Plugin\\RetrivePlugin.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\My Plugin\\RetrivePlugin.cs",
+              "RelativeToolTip": "My Plugin\\RetrivePlugin.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:57:08.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DuplicateCheck.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\My Plugin\\DuplicateCheck.cs",
+              "RelativeDocumentMoniker": "My Plugin\\DuplicateCheck.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\My Plugin\\DuplicateCheck.cs",
+              "RelativeToolTip": "My Plugin\\DuplicateCheck.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwEkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:29:16.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PreEntityImageDemo.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\My Plugin\\PreEntityImageDemo.cs",
+              "RelativeDocumentMoniker": "My Plugin\\PreEntityImageDemo.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\My Plugin\\PreEntityImageDemo.cs",
+              "RelativeToolTip": "My Plugin\\PreEntityImageDemo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwEQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:55:34.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\My Plugin\\TaskCreate.cs",
+              "RelativeDocumentMoniker": "My Plugin\\TaskCreate.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\My Plugin\\TaskCreate.cs",
+              "RelativeToolTip": "My Plugin\\TaskCreate.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T05:17:48.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloPlugin.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\My Plugin\\HelloPlugin.cs",
+              "RelativeDocumentMoniker": "My Plugin\\HelloPlugin.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\My Plugin\\HelloPlugin.cs",
+              "RelativeToolTip": "My Plugin\\HelloPlugin.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:56:04.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task5.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\My Plugin\\Task5.cs",
+              "RelativeDocumentMoniker": "My Plugin\\Task5.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\My Plugin\\Task5.cs",
+              "RelativeToolTip": "My Plugin\\Task5.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:46:09.087Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
