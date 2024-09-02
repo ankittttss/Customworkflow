@@ -1,0 +1,90 @@
+Microsoft.Xrm.Tooling.Connector.CrmServiceClient Error: 2 : ERROR REQUESTING Token FROM THE Authentication context - General ADAL Error
+Source	: Microsoft.IdentityModel.Clients.ActiveDirectory
+Method	: <GetUserPrincipalNameAsync>b__1_0
+Date	: 31-08-2024
+Time	: 18:18:17
+Error	: get_user_name_failed: Failed to get user name
+Stack Trace	: at Microsoft.IdentityModel.Clients.ActiveDirectory.Internal.Platform.PlatformInformation.<>c.<GetUserPrincipalNameAsync>b__1_0()
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.Internal.Platform.PlatformInformation.<GetUserPrincipalNameAsync>d__1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.Internal.Flows.AcquireTokenNonInteractiveHandler.<PreRunAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.Internal.Flows.AcquireTokenHandlerBase.<RunAsync>d__57.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContext.<AcquireTokenCommonAsync>d__37.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextIntegratedAuthExtensions.<AcquireTokenAsync>d__0.MoveNext()
+======================================================================================================================
+Inner Exception Level 1	: 
+Source	: Not Provided
+Method	: Not Provided
+Date	: 31-08-2024
+Time	: 18:18:17
+Error	: No mapping between account names and security IDs was done
+Stack Trace	: Not Provided
+======================================================================================================================
+
+Microsoft.Xrm.Tooling.CrmConnectControl Error: 2 : Exception while trying to connect Discovery Server, (Global Discovery) URI is = https://globaldisco.crm.dynamics.com/api/discovery/v2.0/Instances. Exception message: get_user_name_failed: Failed to get user name
+Microsoft.Xrm.Tooling.CrmConnectControl Error: 2 : Error Message: Exception logged by the CRM Connector control:
+Source	: Microsoft.IdentityModel.Clients.ActiveDirectory
+Method	: <GetUserPrincipalNameAsync>b__1_0
+Date	: 31-08-2024
+Time	: 18:18:17
+Error	: get_user_name_failed: Failed to get user name
+Stack Trace	: at Microsoft.Xrm.Tooling.Connector.CrmWebSvc.ProcessAdalExecption(Uri serviceUrl, ClientCredentials clientCredentials, X509Certificate2 userCert, UserIdentifier& user, String clientId, Uri redirectUri, PromptBehavior promptBehavior, String tokenCachePath, Boolean isOnPrem, String authority, Uri& targetServiceUrl, AuthenticationContext& authContext, String& resource, CrmLogEntry logSink, Boolean useDefaultCreds, String& authToken, AdalException adalEx)
+   at Microsoft.Xrm.Tooling.Connector.CrmWebSvc.ExecuteAuthenticateServiceProcess(Uri serviceUrl, ClientCredentials clientCredentials, X509Certificate2 userCert, UserIdentifier user, String clientId, Uri redirectUri, PromptBehavior promptBehavior, String tokenCachePath, Boolean isOnPrem, String authority, Uri& targetServiceUrl, AuthenticationContext& authContext, String& resource, UserIdentifier& userIdent, CrmLogEntry logSink, Boolean useDefaultCreds, SecureString clientSecret)
+   at Microsoft.Xrm.Tooling.Connector.CrmWebSvc.DiscoverGlobalOrganizations(Uri discoveryServiceUri, ClientCredentials clientCredentials, X509Certificate2 loginCertificate, UserIdentifier user, String clientId, Uri redirectUri, PromptBehavior promptBehavior, String tokenCachePath, Boolean isOnPrem, String authority, UserIdentifier& userOut, CrmLogEntry logSink, Boolean useGlobalDisco, Boolean useDefaultCreds)
+   at Microsoft.Xrm.Tooling.Connector.CrmWebSvc.DiscoverOrganizations(Uri discoveryServiceUri, ClientCredentials clientCredentials, UserIdentifier user, String clientId, Uri redirectUri, PromptBehavior promptBehavior, String tokenCachePath, Boolean isOnPrem, String authority, UserIdentifier& userOut, CrmLogEntry logSink, Boolean useGlobalDisco, Boolean useDefaultCreds)
+   at Microsoft.Xrm.Tooling.Connector.CrmServiceClient.DiscoverGlobalOrganizations(Uri discoveryServiceUri, ClientCredentials clientCredentials, UserIdentifier user, String clientId, Uri redirectUri, String tokenCachePath, Boolean isOnPrem, String authority, UserIdentifier& foundUser, PromptBehavior promptBehavior, Boolean useDefaultCreds)
+   at Microsoft.Xrm.Tooling.CrmConnectControl.CrmConnectionManager.QueryOAuthDiscoveryServer(Uri discoServer, ClientCredentials liveCreds, UserIdentifier user, String clientId, Uri redirectUri, PromptBehavior promptBehavior, String tokenCachePath, Boolean useGlobalDisco)
+   at Microsoft.Xrm.Tooling.CrmConnectControl.CrmConnectionManager.QueryOnlineServerList(ObservableCollection`1 svrs, OrganizationDetailCollection col, ClientCredentials liveCreds, Uri trimToDiscoveryUri, Uri globalDiscoUriToUse)
+   at Microsoft.Xrm.Tooling.CrmConnectControl.CrmConnectionManager.FindCrmOnlineDiscoveryServer(ClientCredentials liveCreds)
+   at Microsoft.Xrm.Tooling.CrmConnectControl.CrmConnectionManager.ValidateServerConnection(CrmOrgByServer selectedOrg)
+======================================================================================================================
+Inner Exception Level 1	: 
+Source	: Not Provided
+Method	: Not Provided
+Date	: 31-08-2024
+Time	: 18:18:17
+Error	: No mapping between account names and security IDs was done
+Stack Trace	: Not Provided
+======================================================================================================================
+
+Microsoft.Xrm.Tooling.CrmConnectControl Error: 2 : Error Message: Can't connect to Microsoft Dataverse - .
+Source	: Microsoft.IdentityModel.Clients.ActiveDirectory
+Method	: <GetUserPrincipalNameAsync>b__1_0
+Date	: 31-08-2024
+Time	: 18:18:17
+Error	: get_user_name_failed: Failed to get user name
+Stack Trace	: at Microsoft.Xrm.Tooling.Connector.CrmWebSvc.ProcessAdalExecption(Uri serviceUrl, ClientCredentials clientCredentials, X509Certificate2 userCert, UserIdentifier& user, String clientId, Uri redirectUri, PromptBehavior promptBehavior, String tokenCachePath, Boolean isOnPrem, String authority, Uri& targetServiceUrl, AuthenticationContext& authContext, String& resource, CrmLogEntry logSink, Boolean useDefaultCreds, String& authToken, AdalException adalEx)
+   at Microsoft.Xrm.Tooling.Connector.CrmWebSvc.ExecuteAuthenticateServiceProcess(Uri serviceUrl, ClientCredentials clientCredentials, X509Certificate2 userCert, UserIdentifier user, String clientId, Uri redirectUri, PromptBehavior promptBehavior, String tokenCachePath, Boolean isOnPrem, String authority, Uri& targetServiceUrl, AuthenticationContext& authContext, String& resource, UserIdentifier& userIdent, CrmLogEntry logSink, Boolean useDefaultCreds, SecureString clientSecret)
+   at Microsoft.Xrm.Tooling.Connector.CrmWebSvc.DiscoverGlobalOrganizations(Uri discoveryServiceUri, ClientCredentials clientCredentials, X509Certificate2 loginCertificate, UserIdentifier user, String clientId, Uri redirectUri, PromptBehavior promptBehavior, String tokenCachePath, Boolean isOnPrem, String authority, UserIdentifier& userOut, CrmLogEntry logSink, Boolean useGlobalDisco, Boolean useDefaultCreds)
+   at Microsoft.Xrm.Tooling.Connector.CrmWebSvc.DiscoverOrganizations(Uri discoveryServiceUri, ClientCredentials clientCredentials, UserIdentifier user, String clientId, Uri redirectUri, PromptBehavior promptBehavior, String tokenCachePath, Boolean isOnPrem, String authority, UserIdentifier& userOut, CrmLogEntry logSink, Boolean useGlobalDisco, Boolean useDefaultCreds)
+   at Microsoft.Xrm.Tooling.Connector.CrmServiceClient.DiscoverGlobalOrganizations(Uri discoveryServiceUri, ClientCredentials clientCredentials, UserIdentifier user, String clientId, Uri redirectUri, String tokenCachePath, Boolean isOnPrem, String authority, UserIdentifier& foundUser, PromptBehavior promptBehavior, Boolean useDefaultCreds)
+   at Microsoft.Xrm.Tooling.CrmConnectControl.CrmConnectionManager.QueryOAuthDiscoveryServer(Uri discoServer, ClientCredentials liveCreds, UserIdentifier user, String clientId, Uri redirectUri, PromptBehavior promptBehavior, String tokenCachePath, Boolean useGlobalDisco)
+   at Microsoft.Xrm.Tooling.CrmConnectControl.CrmConnectionManager.QueryOnlineServerList(ObservableCollection`1 svrs, OrganizationDetailCollection col, ClientCredentials liveCreds, Uri trimToDiscoveryUri, Uri globalDiscoUriToUse)
+   at Microsoft.Xrm.Tooling.CrmConnectControl.CrmConnectionManager.FindCrmOnlineDiscoveryServer(ClientCredentials liveCreds)
+   at Microsoft.Xrm.Tooling.CrmConnectControl.CrmConnectionManager.ValidateServerConnection(CrmOrgByServer selectedOrg)
+======================================================================================================================
+Inner Exception Level 1	: 
+Source	: Not Provided
+Method	: Not Provided
+Date	: 31-08-2024
+Time	: 18:18:17
+Error	: No mapping between account names and security IDs was done
+Stack Trace	: Not Provided
+======================================================================================================================
+

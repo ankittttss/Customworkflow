@@ -1,0 +1,17 @@
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\MyConsoleApp.exe.config
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\MyConsoleApp.exe
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\MyConsoleApp.pdb
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\obj\Debug\MyConsoleApp.exe.config
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\obj\Debug\MyConsol.4CA403AE.Up2Date
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\obj\Debug\MyConsoleApp.exe
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\obj\Debug\MyConsoleApp.pdb

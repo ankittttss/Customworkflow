@@ -7,6 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My Plugin", "My Plugin\My P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCustomWorkflow", "MyCustomWorkflow\MyCustomWorkflow.csproj", "{EF7AE13C-3AC1-41D0-A71C-2B26CA6540A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyConsoleApp", "MyConsoleApp\MyConsoleApp.csproj", "{C1F06FD7-5F0F-4089-8F39-341D0CFF2A0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "clientScripts", "clientScripts", "{5C587853-43CA-48E0-AFA2-39A6C18A35AF}"
+	ProjectSection(SolutionItems) = preProject
+		ContactScript.js = ContactScript.js
+		GlobalHelper.js = GlobalHelper.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +29,10 @@ Global
 		{EF7AE13C-3AC1-41D0-A71C-2B26CA6540A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF7AE13C-3AC1-41D0-A71C-2B26CA6540A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF7AE13C-3AC1-41D0-A71C-2B26CA6540A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F06FD7-5F0F-4089-8F39-341D0CFF2A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F06FD7-5F0F-4089-8F39-341D0CFF2A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F06FD7-5F0F-4089-8F39-341D0CFF2A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F06FD7-5F0F-4089-8F39-341D0CFF2A0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

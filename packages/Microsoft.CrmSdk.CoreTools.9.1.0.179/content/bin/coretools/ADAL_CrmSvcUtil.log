@@ -1,0 +1,58 @@
+Microsoft.IdentityModel.Clients.ActiveDirectory Error: 2 : 2024-08-31T12:48:17.7415451Z: 65de89ee-b8cf-4769-845c-4b8e8de603a0 - LoggerBase.cs: Exception type: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalException, ErrorCode: get_user_name_failed ---> Exception type: System.ComponentModel.Win32Exception
+--- End of inner exception stack trace ---
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.Internal.Platform.PlatformInformation.<>c.<GetUserPrincipalNameAsync>b__1_0()
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.Internal.Platform.PlatformInformation.<GetUserPrincipalNameAsync>d__1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.Internal.Flows.AcquireTokenNonInteractiveHandler.<PreRunAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.Internal.Flows.AcquireTokenHandlerBase.<RunAsync>d__57.MoveNext()
+Microsoft.IdentityModel.Clients.ActiveDirectory Error: 2 : 2024-08-31T12:48:17.7415451Z: 65de89ee-b8cf-4769-845c-4b8e8de603a0 - LoggerBase.cs: Exception type: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalException, ErrorCode: get_user_name_failed ---> Exception type: System.ComponentModel.Win32Exception
+--- End of inner exception stack trace ---
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.Internal.Platform.PlatformInformation.<>c.<GetUserPrincipalNameAsync>b__1_0()
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.Internal.Platform.PlatformInformation.<GetUserPrincipalNameAsync>d__1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.Internal.Flows.AcquireTokenNonInteractiveHandler.<PreRunAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.Internal.Flows.AcquireTokenHandlerBase.<RunAsync>d__57.MoveNext()
+Source	: Not Provided
+Method	: Not Provided
+Date	: 31-08-2024
+Time	: 18:18:17
+Error	: 2024-08-31T12:48:17.7415451Z: 65de89ee-b8cf-4769-845c-4b8e8de603a0 - LoggerBase.cs: Exception type: Microsoft.IdentityModel.Clients.ActiveDirectory.AdalException, ErrorCode: get_user_name_failed ---> Exception type: System.ComponentModel.Win32Exception
+--- End of inner exception stack trace ---
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.Internal.Platform.PlatformInformation.<>c.<GetUserPrincipalNameAsync>b__1_0()
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.Internal.Platform.PlatformInformation.<GetUserPrincipalNameAsync>d__1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.Internal.Flows.AcquireTokenNonInteractiveHandler.<PreRunAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.IdentityModel.Clients.ActiveDirectory.Internal.Flows.AcquireTokenHandlerBase.<RunAsync>d__57.MoveNext()
+Stack Trace	: Not Provided
+======================================================================================================================
+
