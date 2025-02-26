@@ -15,3 +15,16 @@ C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.Cor
 C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\obj\Debug\MyConsol.4CA403AE.Up2Date
 C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\obj\Debug\MyConsoleApp.exe
 C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\obj\Debug\MyConsoleApp.pdb
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\DotNetEnv.dll
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\Sprache.dll
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\System.IO.Compression.dll
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\System.Net.Http.dll
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\Sprache.xml
+C:\Users\ANKIT\source\repos\MYCRM\MyConsoleApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

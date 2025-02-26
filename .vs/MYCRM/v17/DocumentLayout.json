@@ -3,65 +3,671 @@
   "WorkspaceRootPath": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C587853-43CA-48E0-AFA2-39A6C18A35AF}|clientScripts{5C587853-43CA-48E0-AFA2-39A6C18A35AF}|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\ContactScript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{5C587853-43CA-48E0-AFA2-39A6C18A35AF}|clientScripts{5C587853-43CA-48E0-AFA2-39A6C18A35AF}|solutionrelative:ContactScript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{E438E7D7-DFDC-4EB7-BB8F-3DA975C4DD3A}|Dynamics365RestAPI\\Dynamics365RestAPI.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\dynamics365restapi\\services\\dynamics365service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E438E7D7-DFDC-4EB7-BB8F-3DA975C4DD3A}|Dynamics365RestAPI\\Dynamics365RestAPI.csproj|solutionrelative:dynamics365restapi\\services\\dynamics365service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C587853-43CA-48E0-AFA2-39A6C18A35AF}|clientScripts{5C587853-43CA-48E0-AFA2-39A6C18A35AF}|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\GlobalHelper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{5C587853-43CA-48E0-AFA2-39A6C18A35AF}|clientScripts{5C587853-43CA-48E0-AFA2-39A6C18A35AF}|solutionrelative:GlobalHelper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{E438E7D7-DFDC-4EB7-BB8F-3DA975C4DD3A}|Dynamics365RestAPI\\Dynamics365RestAPI.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\dynamics365restapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E438E7D7-DFDC-4EB7-BB8F-3DA975C4DD3A}|Dynamics365RestAPI\\Dynamics365RestAPI.csproj|solutionrelative:dynamics365restapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E37EBF6B-8158-465E-AAD4-22C129A264CB}|My Plugin\\My Plugin.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\my plugin\\retriveplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E37EBF6B-8158-465E-AAD4-22C129A264CB}|My Plugin\\My Plugin.csproj|solutionrelative:my plugin\\retriveplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E438E7D7-DFDC-4EB7-BB8F-3DA975C4DD3A}|Dynamics365RestAPI\\Dynamics365RestAPI.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\dynamics365restapi\\models\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E438E7D7-DFDC-4EB7-BB8F-3DA975C4DD3A}|Dynamics365RestAPI\\Dynamics365RestAPI.csproj|solutionrelative:dynamics365restapi\\models\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E438E7D7-DFDC-4EB7-BB8F-3DA975C4DD3A}|Dynamics365RestAPI\\Dynamics365RestAPI.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\dynamics365restapi\\models\\tiers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E438E7D7-DFDC-4EB7-BB8F-3DA975C4DD3A}|Dynamics365RestAPI\\Dynamics365RestAPI.csproj|solutionrelative:dynamics365restapi\\models\\tiers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E438E7D7-DFDC-4EB7-BB8F-3DA975C4DD3A}|Dynamics365RestAPI\\Dynamics365RestAPI.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\dynamics365restapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E438E7D7-DFDC-4EB7-BB8F-3DA975C4DD3A}|Dynamics365RestAPI\\Dynamics365RestAPI.csproj|solutionrelative:dynamics365restapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E438E7D7-DFDC-4EB7-BB8F-3DA975C4DD3A}|Dynamics365RestAPI\\Dynamics365RestAPI.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\dynamics365restapi\\services\\tokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E438E7D7-DFDC-4EB7-BB8F-3DA975C4DD3A}|Dynamics365RestAPI\\Dynamics365RestAPI.csproj|solutionrelative:dynamics365restapi\\services\\tokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E438E7D7-DFDC-4EB7-BB8F-3DA975C4DD3A}|Dynamics365RestAPI\\Dynamics365RestAPI.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\dynamics365restapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E438E7D7-DFDC-4EB7-BB8F-3DA975C4DD3A}|Dynamics365RestAPI\\Dynamics365RestAPI.csproj|solutionrelative:dynamics365restapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16F3D6D-8868-4E88-A302-6FCA1114CE8F}|CalculateDistance\\LMS.Plugin.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\calculatedistance\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16F3D6D-8868-4E88-A302-6FCA1114CE8F}|CalculateDistance\\LMS.Plugin.csproj|solutionrelative:calculatedistance\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16F3D6D-8868-4E88-A302-6FCA1114CE8F}|CalculateDistance\\LMS.Plugin.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\calculatedistance\\helper\\yearlyofferpre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16F3D6D-8868-4E88-A302-6FCA1114CE8F}|CalculateDistance\\LMS.Plugin.csproj|solutionrelative:calculatedistance\\helper\\yearlyofferpre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16F3D6D-8868-4E88-A302-6FCA1114CE8F}|CalculateDistance\\LMS.Plugin.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\calculatedistance\\helper\\travellinghistorypre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16F3D6D-8868-4E88-A302-6FCA1114CE8F}|CalculateDistance\\LMS.Plugin.csproj|solutionrelative:calculatedistance\\helper\\travellinghistorypre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16F3D6D-8868-4E88-A302-6FCA1114CE8F}|CalculateDistance\\LMS.Plugin.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\calculatedistance\\helper\\tieroperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16F3D6D-8868-4E88-A302-6FCA1114CE8F}|CalculateDistance\\LMS.Plugin.csproj|solutionrelative:calculatedistance\\helper\\tieroperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16F3D6D-8868-4E88-A302-6FCA1114CE8F}|CalculateDistance\\LMS.Plugin.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\calculatedistance\\helper\\pointsoperationpre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16F3D6D-8868-4E88-A302-6FCA1114CE8F}|CalculateDistance\\LMS.Plugin.csproj|solutionrelative:calculatedistance\\helper\\pointsoperationpre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16F3D6D-8868-4E88-A302-6FCA1114CE8F}|CalculateDistance\\LMS.Plugin.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\calculatedistance\\helper\\mimumpointpre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16F3D6D-8868-4E88-A302-6FCA1114CE8F}|CalculateDistance\\LMS.Plugin.csproj|solutionrelative:calculatedistance\\helper\\mimumpointpre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16F3D6D-8868-4E88-A302-6FCA1114CE8F}|CalculateDistance\\LMS.Plugin.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\calculatedistance\\helper\\contactoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16F3D6D-8868-4E88-A302-6FCA1114CE8F}|CalculateDistance\\LMS.Plugin.csproj|solutionrelative:calculatedistance\\helper\\contactoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16F3D6D-8868-4E88-A302-6FCA1114CE8F}|CalculateDistance\\LMS.Plugin.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\calculatedistance\\utilities\\apimanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16F3D6D-8868-4E88-A302-6FCA1114CE8F}|CalculateDistance\\LMS.Plugin.csproj|solutionrelative:calculatedistance\\utilities\\apimanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58E94C0-7271-4946-A95A-9369459855DB}|PointsDeduction\\PointsDeduction.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\pointsdeduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58E94C0-7271-4946-A95A-9369459855DB}|PointsDeduction\\PointsDeduction.csproj|solutionrelative:pointsdeduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E438E7D7-DFDC-4EB7-BB8F-3DA975C4DD3A}|Dynamics365RestAPI\\Dynamics365RestAPI.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\dynamics365restapi\\dynamics365restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E438E7D7-DFDC-4EB7-BB8F-3DA975C4DD3A}|Dynamics365RestAPI\\Dynamics365RestAPI.csproj|solutionrelative:dynamics365restapi\\dynamics365restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\dynamics365restapiazurefunction\\services\\tokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|solutionrelative:dynamics365restapiazurefunction\\services\\tokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\dynamics365restapiazurefunction\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|solutionrelative:dynamics365restapiazurefunction\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\dynamics365restapiazurefunction\\services\\dynamics365service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|solutionrelative:dynamics365restapiazurefunction\\services\\dynamics365service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\dynamics365restapiazurefunction\\controllers\\tiercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|solutionrelative:dynamics365restapiazurefunction\\controllers\\tiercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\dynamics365restapiazurefunction\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|solutionrelative:dynamics365restapiazurefunction\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\dynamics365restapiazurefunction\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|solutionrelative:dynamics365restapiazurefunction\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\dynamics365restapiazurefunction\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|solutionrelative:dynamics365restapiazurefunction\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\dynamics365restapiazurefunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|solutionrelative:dynamics365restapiazurefunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34A12EA-4540-4C82-B716-136ED3161B94}|test56\\test56.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\test56\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34A12EA-4540-4C82-B716-136ED3161B94}|test56\\test56.csproj|solutionrelative:test56\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34A12EA-4540-4C82-B716-136ED3161B94}|test56\\test56.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\test56\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34A12EA-4540-4C82-B716-136ED3161B94}|test56\\test56.csproj|solutionrelative:test56\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\dynamics365restapiazurefunction\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|solutionrelative:dynamics365restapiazurefunction\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ANKIT\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E438E7D7-DFDC-4EB7-BB8F-3DA975C4DD3A}|Dynamics365RestAPI\\Dynamics365RestAPI.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\dynamics365restapi\\controllers\\tiercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E438E7D7-DFDC-4EB7-BB8F-3DA975C4DD3A}|Dynamics365RestAPI\\Dynamics365RestAPI.csproj|solutionrelative:dynamics365restapi\\controllers\\tiercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|c:\\users\\ankit\\source\\repos\\mycrm\\dynamics365restapiazurefunction\\models\\tiers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D8FAAE-9B9A-48E7-BAAF-7035D9AA5D19}|Dynamics365RestAPIAzureFunction\\Dynamics365RestAPIAzureFunction.csproj|solutionrelative:dynamics365restapiazurefunction\\models\\tiers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58E94C0-7271-4946-A95A-9369459855DB}|PointsDeduction\\PointsDeduction.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\pointsdeduction\\helper\\contactoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58E94C0-7271-4946-A95A-9369459855DB}|PointsDeduction\\PointsDeduction.csproj|solutionrelative:pointsdeduction\\helper\\contactoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58E94C0-7271-4946-A95A-9369459855DB}|PointsDeduction\\PointsDeduction.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\pointsdeduction\\helper\\pointsoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58E94C0-7271-4946-A95A-9369459855DB}|PointsDeduction\\PointsDeduction.csproj|solutionrelative:pointsdeduction\\helper\\pointsoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58E94C0-7271-4946-A95A-9369459855DB}|PointsDeduction\\PointsDeduction.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\pointsdeduction\\helper\\tieroperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58E94C0-7271-4946-A95A-9369459855DB}|PointsDeduction\\PointsDeduction.csproj|solutionrelative:pointsdeduction\\helper\\tieroperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B006B867-22F7-47BB-A31C-F6F295937FBD}|pagination\\pagination.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\pagination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B006B867-22F7-47BB-A31C-F6F295937FBD}|pagination\\pagination.csproj|solutionrelative:pagination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BC27FA-A807-4BA9-A2CA-3E2AA3D97466}|ContactsCreation\\ContactsCreation.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\contactscreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BC27FA-A807-4BA9-A2CA-3E2AA3D97466}|ContactsCreation\\ContactsCreation.csproj|solutionrelative:contactscreation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16F3D6D-8868-4E88-A302-6FCA1114CE8F}|CalculateDistance\\CalculateDistance.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\calculatedistance\\helper\\travellinghistorypre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16F3D6D-8868-4E88-A302-6FCA1114CE8F}|CalculateDistance\\CalculateDistance.csproj|solutionrelative:calculatedistance\\helper\\travellinghistorypre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BC27FA-A807-4BA9-A2CA-3E2AA3D97466}|ContactsCreation\\ContactsCreation.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\contactscreation\\helper\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BC27FA-A807-4BA9-A2CA-3E2AA3D97466}|ContactsCreation\\ContactsCreation.csproj|solutionrelative:contactscreation\\helper\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B006B867-22F7-47BB-A31C-F6F295937FBD}|pagination\\pagination.csproj|C:\\Users\\ANKIT\\source\\repos\\MYCRM\\pagination\\helper\\fetchingdatacomparison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B006B867-22F7-47BB-A31C-F6F295937FBD}|pagination\\pagination.csproj|solutionrelative:pagination\\helper\\fetchingdatacomparison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 163,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 21,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tiers.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPI\\Models\\Tiers.cs",
+              "RelativeDocumentMoniker": "Dynamics365RestAPI\\Models\\Tiers.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPI\\Models\\Tiers.cs",
+              "RelativeToolTip": "Dynamics365RestAPI\\Models\\Tiers.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:55:56.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "YearlyOfferPre.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\CalculateDistance\\Helper\\YearlyOfferPre.cs",
+              "RelativeDocumentMoniker": "CalculateDistance\\Helper\\YearlyOfferPre.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\CalculateDistance\\Helper\\YearlyOfferPre.cs",
+              "RelativeToolTip": "CalculateDistance\\Helper\\YearlyOfferPre.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T07:03:25.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MimumPointPre.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\CalculateDistance\\Helper\\MimumPointPre.cs",
+              "RelativeDocumentMoniker": "CalculateDistance\\Helper\\MimumPointPre.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\CalculateDistance\\Helper\\MimumPointPre.cs",
+              "RelativeToolTip": "CalculateDistance\\Helper\\MimumPointPre.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T19:58:14.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiManagement.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\CalculateDistance\\Utilities\\ApiManagement.cs",
+              "RelativeDocumentMoniker": "CalculateDistance\\Utilities\\ApiManagement.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\CalculateDistance\\Utilities\\ApiManagement.cs",
+              "RelativeToolTip": "CalculateDistance\\Utilities\\ApiManagement.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T06:46:21.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactOperation.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\CalculateDistance\\Helper\\ContactOperation.cs",
+              "RelativeDocumentMoniker": "CalculateDistance\\Helper\\ContactOperation.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\CalculateDistance\\Helper\\ContactOperation.cs",
+              "RelativeToolTip": "CalculateDistance\\Helper\\ContactOperation.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwEMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T07:44:03.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\CalculateDistance\\Class1.cs",
+              "RelativeDocumentMoniker": "CalculateDistance\\Class1.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\CalculateDistance\\Class1.cs",
+              "RelativeToolTip": "CalculateDistance\\Class1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:24:23.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dynamics365RestAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPI\\Dynamics365RestAPI.csproj",
+              "RelativeDocumentMoniker": "Dynamics365RestAPI\\Dynamics365RestAPI.csproj",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPI\\Dynamics365RestAPI.csproj",
+              "RelativeToolTip": "Dynamics365RestAPI\\Dynamics365RestAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T08:50:42.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\test56\\Program.cs",
+              "RelativeDocumentMoniker": "test56\\Program.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\test56\\Program.cs",
+              "RelativeToolTip": "test56\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:20:20.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\test56\\Function1.cs",
+              "RelativeDocumentMoniker": "test56\\Function1.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\test56\\Function1.cs",
+              "RelativeToolTip": "test56\\Function1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:20:15.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAOYSAAAAAAAAAAAcwPgSAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-20T13:59:17.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\host.json",
+              "RelativeDocumentMoniker": "Dynamics365RestAPIAzureFunction\\host.json",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\host.json",
+              "RelativeToolTip": "Dynamics365RestAPIAzureFunction\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T13:39:03.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "ToolTip": "C:\\Users\\ANKIT\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "ViewState": "AgIAADwAAAAAAAAAAAAcwE4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-20T13:36:23.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\Function1.cs",
+              "RelativeDocumentMoniker": "Dynamics365RestAPIAzureFunction\\Function1.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\Function1.cs",
+              "RelativeToolTip": "Dynamics365RestAPIAzureFunction\\Function1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:31:35.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TierController.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPI\\Controllers\\TierController.cs",
+              "RelativeDocumentMoniker": "Dynamics365RestAPI\\Controllers\\TierController.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPI\\Controllers\\TierController.cs",
+              "RelativeToolTip": "Dynamics365RestAPI\\Controllers\\TierController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:30:28.746Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GlobalHelper.js",
-              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\GlobalHelper.js",
-              "RelativeDocumentMoniker": "GlobalHelper.js",
-              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\GlobalHelper.js",
-              "RelativeToolTip": "GlobalHelper.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-02T10:22:44.877Z",
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPI\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Dynamics365RestAPI\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPI\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Dynamics365RestAPI\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:25:43.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TierController.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\Controllers\\TierController.cs",
+              "RelativeDocumentMoniker": "Dynamics365RestAPIAzureFunction\\Controllers\\TierController.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\Controllers\\TierController.cs",
+              "RelativeToolTip": "Dynamics365RestAPIAzureFunction\\Controllers\\TierController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwDIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:25:34.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Dynamics365RestAPIAzureFunction\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Dynamics365RestAPIAzureFunction\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:25:05.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dynamics365Service.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\Services\\Dynamics365Service.cs",
+              "RelativeDocumentMoniker": "Dynamics365RestAPIAzureFunction\\Services\\Dynamics365Service.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\Services\\Dynamics365Service.cs",
+              "RelativeToolTip": "Dynamics365RestAPIAzureFunction\\Services\\Dynamics365Service.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:22:44.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPI\\Services\\TokenHelper.cs",
+              "RelativeDocumentMoniker": "Dynamics365RestAPI\\Services\\TokenHelper.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPI\\Services\\TokenHelper.cs",
+              "RelativeToolTip": "Dynamics365RestAPI\\Services\\TokenHelper.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:20:01.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TokenHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\Services\\TokenHelper.cs",
+              "RelativeDocumentMoniker": "Dynamics365RestAPIAzureFunction\\Services\\TokenHelper.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\Services\\TokenHelper.cs",
+              "RelativeToolTip": "Dynamics365RestAPIAzureFunction\\Services\\TokenHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:19:53.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dynamics365Service.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPI\\Services\\Dynamics365Service.cs",
+              "RelativeDocumentMoniker": "Dynamics365RestAPI\\Services\\Dynamics365Service.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPI\\Services\\Dynamics365Service.cs",
+              "RelativeToolTip": "Dynamics365RestAPI\\Services\\Dynamics365Service.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:19:04.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RetrivePlugin.cs",
-              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\My Plugin\\RetrivePlugin.cs",
-              "RelativeDocumentMoniker": "My Plugin\\RetrivePlugin.cs",
-              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\My Plugin\\RetrivePlugin.cs",
-              "RelativeToolTip": "My Plugin\\RetrivePlugin.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPI\\Models\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "Dynamics365RestAPI\\Models\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPI\\Models\\TokenResponse.cs",
+              "RelativeToolTip": "Dynamics365RestAPI\\Models\\TokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T06:43:48.409Z",
+              "WhenOpened": "2025-01-20T13:15:22.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ContactScript.js",
-              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\ContactScript.js",
-              "RelativeDocumentMoniker": "ContactScript.js",
-              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\ContactScript.js",
-              "RelativeToolTip": "ContactScript.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-01T13:24:41.234Z",
+              "DocumentIndex": 31,
+              "Title": "Tiers.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\Models\\Tiers.cs",
+              "RelativeDocumentMoniker": "Dynamics365RestAPIAzureFunction\\Models\\Tiers.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\Models\\Tiers.cs",
+              "RelativeToolTip": "Dynamics365RestAPIAzureFunction\\Models\\Tiers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:14:59.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPI\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Dynamics365RestAPI\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPI\\Models\\Contact.cs",
+              "RelativeToolTip": "Dynamics365RestAPI\\Models\\Contact.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwEcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:13:53.762Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Dynamics365RestAPIAzureFunction\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\Models\\Contact.cs",
+              "RelativeToolTip": "Dynamics365RestAPIAzureFunction\\Models\\Contact.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:13:48.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Dynamics365RestAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPI\\appsettings.json",
+              "RelativeToolTip": "Dynamics365RestAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T13:12:00.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\local.settings.json",
+              "RelativeDocumentMoniker": "Dynamics365RestAPIAzureFunction\\local.settings.json",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\local.settings.json",
+              "RelativeToolTip": "Dynamics365RestAPIAzureFunction\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T13:11:49.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\Program.cs",
+              "RelativeDocumentMoniker": "Dynamics365RestAPIAzureFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\Dynamics365RestAPIAzureFunction\\Program.cs",
+              "RelativeToolTip": "Dynamics365RestAPIAzureFunction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:06:03.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PointsOperation.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\PointsDeduction\\Helper\\PointsOperation.cs",
+              "RelativeDocumentMoniker": "PointsDeduction\\Helper\\PointsOperation.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\PointsDeduction\\Helper\\PointsOperation.cs",
+              "RelativeToolTip": "PointsDeduction\\Helper\\PointsOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:41:56.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TierOperation.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\PointsDeduction\\Helper\\TierOperation.cs",
+              "RelativeDocumentMoniker": "PointsDeduction\\Helper\\TierOperation.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\PointsDeduction\\Helper\\TierOperation.cs",
+              "RelativeToolTip": "PointsDeduction\\Helper\\TierOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:39:39.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ContactOperation.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\PointsDeduction\\Helper\\ContactOperation.cs",
+              "RelativeDocumentMoniker": "PointsDeduction\\Helper\\ContactOperation.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\PointsDeduction\\Helper\\ContactOperation.cs",
+              "RelativeToolTip": "PointsDeduction\\Helper\\ContactOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:39:15.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\PointsDeduction\\Program.cs",
+              "RelativeDocumentMoniker": "PointsDeduction\\Program.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\PointsDeduction\\Program.cs",
+              "RelativeToolTip": "PointsDeduction\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:10:50.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TravellingHistoryPre.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\CalculateDistance\\Helper\\TravellingHistoryPre.cs",
+              "RelativeDocumentMoniker": "CalculateDistance\\Helper\\TravellingHistoryPre.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\CalculateDistance\\Helper\\TravellingHistoryPre.cs",
+              "RelativeToolTip": "CalculateDistance\\Helper\\TravellingHistoryPre.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:49:58.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TierOperation.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\CalculateDistance\\Helper\\TierOperation.cs",
+              "RelativeDocumentMoniker": "CalculateDistance\\Helper\\TierOperation.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\CalculateDistance\\Helper\\TierOperation.cs",
+              "RelativeToolTip": "CalculateDistance\\Helper\\TierOperation.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:32:48.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PointsOperationPre.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\CalculateDistance\\Helper\\PointsOperationPre.cs",
+              "RelativeDocumentMoniker": "CalculateDistance\\Helper\\PointsOperationPre.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\CalculateDistance\\Helper\\PointsOperationPre.cs",
+              "RelativeToolTip": "CalculateDistance\\Helper\\PointsOperationPre.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:14:53.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TravellingHistoryPre.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\CalculateDistance\\Helper\\TravellingHistoryPre.cs",
+              "RelativeDocumentMoniker": "CalculateDistance\\Helper\\TravellingHistoryPre.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\CalculateDistance\\Helper\\TravellingHistoryPre.cs",
+              "RelativeToolTip": "CalculateDistance\\Helper\\TravellingHistoryPre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:39:44.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\ContactsCreation\\Helper\\Class1.cs",
+              "RelativeDocumentMoniker": "ContactsCreation\\Helper\\Class1.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\ContactsCreation\\Helper\\Class1.cs",
+              "RelativeToolTip": "ContactsCreation\\Helper\\Class1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:01:53.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\ContactsCreation\\Program.cs",
+              "RelativeDocumentMoniker": "ContactsCreation\\Program.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\ContactsCreation\\Program.cs",
+              "RelativeToolTip": "ContactsCreation\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:23:11.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FetchingDataComparison.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\pagination\\Helper\\FetchingDataComparison.cs",
+              "RelativeDocumentMoniker": "pagination\\Helper\\FetchingDataComparison.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\pagination\\Helper\\FetchingDataComparison.cs",
+              "RelativeToolTip": "pagination\\Helper\\FetchingDataComparison.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:20:53.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\pagination\\Program.cs",
+              "RelativeDocumentMoniker": "pagination\\Program.cs",
+              "ToolTip": "C:\\Users\\ANKIT\\source\\repos\\MYCRM\\pagination\\Program.cs",
+              "RelativeToolTip": "pagination\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:20:42.233Z"
             }
           ]
         }

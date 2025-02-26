@@ -49,7 +49,8 @@ namespace MyConsoleApp
                             throw new Exception("The Full name is not here");
                         }
 
-                        else {
+                        else
+                        {
 
                             Console.WriteLine(record.Attributes["lastname"].ToString());
                         }
@@ -57,7 +58,7 @@ namespace MyConsoleApp
                     }
                 }
 
-               
+
 
 
             }
